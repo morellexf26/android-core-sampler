@@ -28,8 +28,7 @@ from the second set of numbers we can determine how busy each of the
 device CPU cores were during the wait period, and it prints a CPU
 usage report the the console.
 
-If you want to wait for an interval other than 5 seconds, just specify
-the number of seconds as an argument on the command line.
+If you want to wait for an interval other than 5 seconds, just change the sleep value.
 
 ```
 CPU     WORK    BUSY    IDLE    WAIT
