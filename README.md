@@ -4,7 +4,7 @@
     🎛
     <br />
     <br />
-    Core Sampler
+    Android Core Sampler
     <br />
     <br />
   </h1>
